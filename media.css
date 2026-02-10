@@ -1,0 +1,34 @@
+ @media screen and (max-width:768px){
+    header{
+        padding:20px 20px 10px 20px;
+    }
+    #aboutme 
+    {
+        flex-wrap:wrap;
+
+    }
+    .gif-img {
+        width:80vw;
+    }
+    .gif-img img{
+        width:100%;
+    }
+    .bio-title h1 {
+        font-size:40px;
+        maargin:0px auto;
+        }
+    .bio-title img {
+        display:none;
+    }
+    form {
+     width:100vw;
+     align-items:center;
+    }
+    form input,
+    form textarea {
+        width:80%
+    }
+    footer {
+        margin:20px 20px;
+    }
+}
